@@ -1,0 +1,12 @@
+system          5-DOPC-DPPC
+composition     0%DPPC
+lipA            DOPC
+lipB            DPPC
+na              512.0
+nb              0.0
+total           512.0
+xa              1.0
+xb              0.0
+apl_A2          72.00940700451093
+ideal_apl_A2    72.00940700451093
+excess_apl_A2   0.0
