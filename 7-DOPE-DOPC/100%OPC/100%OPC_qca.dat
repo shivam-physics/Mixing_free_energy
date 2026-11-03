@@ -1,0 +1,12 @@
+system          7-DOPE-DOPC
+composition     100%OPC
+lipA            DOPE
+lipB            DOPC
+na              0.0
+nb              512.0
+total           512.0
+xa              0.0
+xb              1.0
+apl_A2          67.54042724893623
+ideal_apl_A2    67.54042724893623
+excess_apl_A2   0.0

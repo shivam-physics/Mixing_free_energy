@@ -1,0 +1,12 @@
+system          8-POPC-PUPC
+composition     0%POPC
+lipA            POPC
+lipB            PUPC
+na              0.0
+nb              512.0
+total           512.0
+xa              0.0
+xb              1.0
+apl_A2          78.21542670969609
+ideal_apl_A2    78.21542670969609
+excess_apl_A2   0.0
