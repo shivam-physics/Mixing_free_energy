@@ -1,0 +1,12 @@
+system          3-DOPC-OPC
+composition     100%OPC
+lipA            DOPC
+lipB            OPC
+na              0.0
+nb              512.0
+total           512.0
+xa              0.0
+xb              1.0
+apl_A2          44.72095489969378
+ideal_apl_A2    44.72095489969378
+excess_apl_A2   0.0

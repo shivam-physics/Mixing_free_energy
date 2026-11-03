@@ -1,0 +1,12 @@
+system          2-DPPE-DPSM
+composition     100%DPSM
+lipA            DPPE
+lipB            DPSM
+na              0.0
+nb              512.0
+total           512.0
+xa              0.0
+xb              1.0
+apl_A2          64.46735200359734
+ideal_apl_A2    64.46735200359734
+excess_apl_A2   0.0

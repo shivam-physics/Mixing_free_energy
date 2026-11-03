@@ -1,0 +1,13 @@
+#include "toppar/martini_v2.2.itp"
+#include "toppar/martini_v2.0_lipids_all_201506.itp"
+#include "toppar/martini_v2.0_ions.itp"
+
+[ system ]
+; name
+Martini system
+[ molecules ]
+DPPE 718
+DOPE 306
+W 9563
+NA 114
+CL 114
