@@ -1,0 +1,19 @@
+#include "toppar/martini_v2.2.itp"
+#include "toppar/martini_v2.0_lipids_all_201506.itp"
+#include "toppar/martini_v2.0_ions.itp"
+
+
+[ system ]
+; name
+INSANE! Membrane UpperLeaflet>DTPC:DFPC=3.0:7.0 LowerLeaflet>DTPC:DFPC=3.0:7.0
+
+[ molecules ]
+; name  number
+DTPC           202
+DFPC           473
+DTPC           202
+DFPC           473
+W           24497
+NA               434
+CL               434
+WF	2648
