@@ -1,0 +1,12 @@
+system          10-POPC-PAPC
+composition     0%POPC
+lipA            POPC
+lipB            PAPC
+na              0.0
+nb              512.0
+total           512.0
+xa              0.0
+xb              1.0
+apl_A2          74.52644304437601
+ideal_apl_A2    74.52644304437601
+excess_apl_A2   0.0

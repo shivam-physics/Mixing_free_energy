@@ -1,0 +1,21 @@
+#include "toppar/martini_v2.2.itp"
+#include "toppar/martini_v2.0_lipids_all_201506.itp"
+#include "toppar/martini_v2.0_ions.itp"
+
+[ system ]
+; name
+INSANE! Membrane UpperLeaflet>DPPC:DIPC:CHOL=20.0:65.0:15.0 LowerLeaflet>DPPC:DIPC:CHOL=20.0:65.0:15.0
+
+
+[ molecules ]
+; name  number
+DPPC           304
+DIPC           988
+CHOL           228
+DPPC           304
+DIPC           988
+CHOL           228
+W            34518
+WF            3835
+NA            422
+CL            422

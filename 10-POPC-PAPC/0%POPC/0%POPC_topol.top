@@ -1,0 +1,14 @@
+#include "../toppar/martini_v2.2.itp"
+#include "../toppar/martini_v2.0_lipids_all_modified_PAPC.itp"
+#include "../toppar/martini_v2.0_ions.itp"
+
+[ system ]
+; name
+Martini system
+
+[ molecules ]
+; name        number
+PAPC 1024
+W 21010
+NA 246
+CL 246

@@ -1,0 +1,12 @@
+system          9-DOPC-DFPC
+composition     100%DFPC
+lipA            DOPC
+lipB            DFPC
+na              0.0
+nb              512.0
+total           512.0
+xa              0.0
+xb              1.0
+apl_A2          76.10524138961358
+ideal_apl_A2    76.10524138961358
+excess_apl_A2   0.0

@@ -1,0 +1,15 @@
+#include "../toppar/martini_v2.2.itp"
+#include "../toppar/martini_v2.0_lipids_all_modified_PAPC.itp"
+#include "../toppar/martini_v2.0_ions.itp"
+
+[ system ]
+; name
+Martini system
+
+[ molecules ]
+; name        number
+POPC 922
+PAPC 102
+W 21689
+NA 275
+CL 275
